@@ -7,7 +7,13 @@
         <script>
             function solution(arr){
                 let answer=[];
-                 
+                 const newArray = arr.filter(v => v%2 == 1)
+                 let sum = 0;
+                 for(let i=0; i < newArray.length; i++) {
+                     sum += newArray[i];
+                 }
+                 answer.push(sum);
+                 answer.push(Math.min(...newArray));
                 return answer;
             }
             
