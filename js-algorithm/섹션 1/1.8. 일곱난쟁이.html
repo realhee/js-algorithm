@@ -11,8 +11,8 @@
                 for(let i=0; i < answer.length; i++) {
                     for(let j=i+1; j < answer.length + 1; j++) {                        
                         if((sum - answer[i] - answer[j]) == 100) {
-                            answer.splice(i,1);
-                            answer.splice(j, 1);
+                            answer.splice(j,1);
+                            answer.splice(i, 1);
                         }
                     }
                 }
