@@ -7,28 +7,10 @@
         <script>
             function solution(s){
                 let answer="";
-                
-                return answer;
-            }
-            
-            let str="BANANA";
-            console.log(solution(str));
-        </script>
-    </body>
-</html>
-
-
-
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title>출력결과</title>
-    </head>
-    <body>
-        <script>
-            function solution(s){
-                let answer=s;
-                
+                answer = [...s].map(v => {
+                    if(v == "A") return v = "#"
+                    else return v;
+                }).join("");
                 return answer;
             }
             
