@@ -7,7 +7,7 @@
         <script>
             function solution(s){         
                 let answer=0;
-                
+                answer = [...s].filter(v => v === v.toUpperCase()).length;                
                 return answer;
             }
 
