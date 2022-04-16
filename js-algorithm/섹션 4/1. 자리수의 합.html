@@ -6,8 +6,19 @@
     <body>
         <script>
             function solution(n, arr){
-                let answer, max=Number.MIN_SAFE_INTEGER;
-                
+                let answer;
+                let max = Number.MIN_SAFE_INTEGER;
+                for(x of arr) {
+                    let sum = x.toString().split("");
+                    sum = sum.reduce((a,b) => a+Number(b),0);
+                    if(sum > max) {
+                        max = sum;
+                        answer = x;
+                    }
+                    else if(sum == max) {
+                        if(x > answer) answer = x;
+                    }
+                }
                 return answer;
             }
             
@@ -16,23 +27,3 @@
         </script>
     </body>
 </html>
-
-
-
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title>출력결과</title>
-    </head>
-    <body>
-        <script>
-            function solution(n, arr){
-                let answer, max=Number.MIN_SAFE_INTEGER;
-                
-                return answer;
-            }
-            
-            let arr=[128, 460, 603, 40, 521, 137, 123];
-            console.log(solution(7, arr));
-        </script>
-    </body>
