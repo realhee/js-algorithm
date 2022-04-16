@@ -7,6 +7,18 @@
         <script>
             function solution(m, arr){
                 let answer=0;
+                let left=0;
+                let right=0;
+                let sum=0;
+                for(let right=0; right < arr.length; right++) {
+                    sum += arr[right];
+                    while(sum>m){
+                        sum-=arr[left++];
+                    }
+                    if(sum <= m) {
+                        answer+=(right-left+1);//answer++;
+                    }
+                }
                 
                 return answer;
             }
