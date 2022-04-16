@@ -7,16 +7,20 @@
         <script>
             function solution(n, k, card){
                 let answer;
-                let tmp = new Set();
-                for(let i=0; i<n; i++){
-                    for(let j=i+1; j<n; j++){
-                        for(let k=j+1; k<n; k++){
-                            tmp.add(card[i]+card[j]+card[k]);
+                let tmp = new Set(); // 중복 방지 (add, delete)
+                card.sort((a,b) => b-a);
+                // 3중 for문
+                for(let i=0; i < card.length; i++) {
+                    for(let j=i+1; j < card.length; j++) {
+                        for(let k=j+1; k < card.length; k++) {
+                            tmp.add(card[i] + card[j] + card[k]);
                         }
                     }
                 }
-                let a=Array.from(tmp).sort((a, b)=>b-a);
-                answer=a[k-1];
+                tmp = [...tmp];
+                answer = tmp[k-1];
+                console.log(card);
+                
                 return answer;
             }
             
