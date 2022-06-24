@@ -29,9 +29,9 @@
 |  2   | 삼각형 판별하기  | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-2.js) | 22.06.24 |    -     |
 |  3   |    연필 개수     | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-3.js) | 22.06.24 |    -     |
 |  4   | 1부터 N까지의 합 | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-4.js) | 22.06.24 |    -     |
-|  5   |  최소값 구하기   | [JS](ttps://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-5.js)  | 22.06.24 |    -     |
-|  6   |       홀수       | [JS](ttps://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-6.js)  | 22.06.24 |    -     |
-|  7   |      10부제      |                                         [JS]()                                         |    -     |    -     |
+|  5   |  최소값 구하기   | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-5.js) | 22.06.24 |    -     |
+|  6   |       홀수       | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-6.js) | 22.06.24 |    -     |
+|  7   |      10부제      | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-7.js) | 22.06.24 |    -     |
 |  8   |    일곱난쟁이    |                                         [JS]()                                         |    -     |    -     |
 |  9   |    A를 #으로     |                                         [JS]()                                         |    -     |    -     |
 |  10  |    문자 찾기     |                                         [JS]()                                         |    -     |    -     |
