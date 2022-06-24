@@ -33,7 +33,7 @@
 |  6   |       홀수       | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-6.js) | 22.06.24 |    -     |
 |  7   |      10부제      | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-7.js) | 22.06.24 |    -     |
 |  8   |    일곱난쟁이    | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-8.js) | 22.06.24 |    -     |
-|  9   |    A를 #으로     |                                         [JS]()                                         |    -     |    -     |
+|  9   |    A를 #으로     | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-9.js) | 22.06.24 |    -     |
 |  10  |    문자 찾기     |                                         [JS]()                                         |    -     |    -     |
 |  11  |   대문자 찾기    |                                         [JS]()                                         |    -     |    -     |
 |  12  |   대문자 통일    |                                         [JS]()                                         |    -     |    -     |
