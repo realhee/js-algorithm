@@ -40,7 +40,7 @@
 |  13  |  대소문자 변환   | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-13.js) | 22.06.24 |    -     |
 |  14  |  가장 긴 문자열  | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-14.js) | 22.06.24 |    -     |
 |  15  | 가운데 문자 출력 | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-15.js) | 22.06.24 |    -     |
-|  16  |  중복 문자 제거  |                                         [JS]()                                          |    -     |    -     |
+|  16  |  중복 문자 제거  | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-16.js) | 22.06.24 |    -     |
 |  17  |  중복 단어 제거  |                                         [JS]()                                          |    -     |    -     |
 
 <br />
