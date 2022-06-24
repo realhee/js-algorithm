@@ -23,25 +23,25 @@
 
 ## 기본 문제 풀이
 
-| 번호 |       문제       |                                      JS 풀이 코드                                      | 1차 풀이 | 2차 풀이 |
-| :--: | :--------------: | :------------------------------------------------------------------------------------: | :------: | :------: |
-|  1   | 세 수 중 최소값  | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-1.js) | 22.06.24 |    -     |
-|  2   | 삼각형 판별하기  | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-2.js) | 22.06.24 |    -     |
-|  3   |    연필 개수     | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-3.js) | 22.06.24 |    -     |
-|  4   | 1부터 N까지의 합 | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-4.js) | 22.06.24 |    -     |
-|  5   |  최소값 구하기   | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-5.js) | 22.06.24 |    -     |
-|  6   |       홀수       | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-6.js) | 22.06.24 |    -     |
-|  7   |      10부제      | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-7.js) | 22.06.24 |    -     |
-|  8   |    일곱난쟁이    | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-8.js) | 22.06.24 |    -     |
-|  9   |    A를 #으로     | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-9.js) | 22.06.24 |    -     |
-|  10  |    문자 찾기     |                                         [JS]()                                         |    -     |    -     |
-|  11  |   대문자 찾기    |                                         [JS]()                                         |    -     |    -     |
-|  12  |   대문자 통일    |                                         [JS]()                                         |    -     |    -     |
-|  13  |  대소문자 변환   |                                         [JS]()                                         |    -     |    -     |
-|  14  |  가장 긴 문자열  |                                         [JS]()                                         |    -     |    -     |
-|  15  | 가운데 문자 출력 |                                         [JS]()                                         |    -     |    -     |
-|  16  |  중복 문자 제거  |                                         [JS]()                                         |    -     |    -     |
-|  17  |  중복 단어 제거  |                                         [JS]()                                         |    -     |    -     |
+| 번호 |       문제       |                                      JS 풀이 코드                                       | 1차 풀이 | 2차 풀이 |
+| :--: | :--------------: | :-------------------------------------------------------------------------------------: | :------: | :------: |
+|  1   | 세 수 중 최소값  | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-1.js)  | 22.06.24 |    -     |
+|  2   | 삼각형 판별하기  | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-2.js)  | 22.06.24 |    -     |
+|  3   |    연필 개수     | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-3.js)  | 22.06.24 |    -     |
+|  4   | 1부터 N까지의 합 | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-4.js)  | 22.06.24 |    -     |
+|  5   |  최소값 구하기   | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-5.js)  | 22.06.24 |    -     |
+|  6   |       홀수       | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-6.js)  | 22.06.24 |    -     |
+|  7   |      10부제      | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-7.js)  | 22.06.24 |    -     |
+|  8   |    일곱난쟁이    | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-8.js)  | 22.06.24 |    -     |
+|  9   |    A를 #으로     | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-9.js)  | 22.06.24 |    -     |
+|  10  |    문자 찾기     | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-10.js) | 22.06.24 |    -     |
+|  11  |   대문자 찾기    |                                         [JS]()                                          |    -     |    -     |
+|  12  |   대문자 통일    |                                         [JS]()                                          |    -     |    -     |
+|  13  |  대소문자 변환   |                                         [JS]()                                          |    -     |    -     |
+|  14  |  가장 긴 문자열  |                                         [JS]()                                          |    -     |    -     |
+|  15  | 가운데 문자 출력 |                                         [JS]()                                          |    -     |    -     |
+|  16  |  중복 문자 제거  |                                         [JS]()                                          |    -     |    -     |
+|  17  |  중복 단어 제거  |                                         [JS]()                                          |    -     |    -     |
 
 <br />
 
