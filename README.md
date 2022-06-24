@@ -27,7 +27,7 @@
 | :--: | :--------------: | :------------------------------------------------------------------------------------: | :------: | :------: |
 |  1   | 세 수 중 최소값  | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-1.js) | 22.06.24 |    -     |
 |  2   | 삼각형 판별하기  | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-2.js) | 22.06.24 |    -     |
-|  3   |    연필 개수     |                                         [JS]()                                         |    -     |    -     |
+|  3   |    연필 개수     | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-3.js) | 22.06.24 |    -     |
 |  4   | 1부터 N까지의 합 |                                         [JS]()                                         |    -     |    -     |
 |  5   |  최소값 구하기   |                                         [JS]()                                         |    -     |    -     |
 |  6   |       홀수       |                                         [JS]()                                         |    -     |    -     |
