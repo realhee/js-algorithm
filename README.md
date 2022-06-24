@@ -38,7 +38,7 @@
 |  11  |   대문자 찾기    | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-11.js) | 22.06.24 |    -     |
 |  12  |   대문자 통일    | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-12.js) | 22.06.24 |    -     |
 |  13  |  대소문자 변환   | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-13.js) | 22.06.24 |    -     |
-|  14  |  가장 긴 문자열  |                                         [JS]()                                          |    -     |    -     |
+|  14  |  가장 긴 문자열  | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/01-Basic/1-14.js) | 22.06.24 |    -     |
 |  15  | 가운데 문자 출력 |                                         [JS]()                                          |    -     |    -     |
 |  16  |  중복 문자 제거  |                                         [JS]()                                          |    -     |    -     |
 |  17  |  중복 단어 제거  |                                         [JS]()                                          |    -     |    -     |
