@@ -52,7 +52,7 @@
 | 번호 |      문제      |                                         JS 풀이 코드                                         | 1차 풀이 | 2차 풀이 |
 | :--: | :------------: | :------------------------------------------------------------------------------------------: | :------: | :------: |
 |  1   | 큰 수 출력하기 | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/2-1.js) | 22.06.25 |    -     |
-|  2   |  보이는 학생   |                                            [JS]()                                            |    -     |    -     |
+|  2   |  보이는 학생   | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/2-2.js) | 22.06.25 |    -     |
 |  3   |   가위바위보   |                                            [JS]()                                            |    -     |    -     |
 |  5   |  등수 구하기   |                                            [JS]()                                            |    -     |    -     |
 |  6   | 격자판 최대합  |                                            [JS]()                                            |    -     |    -     |
