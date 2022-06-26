@@ -56,7 +56,7 @@
 |  3   |   가위바위보   | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/2-3.js) | 22.06.25 |    -     |
 |  4   |   점수 계산    | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/2-4.js) | 22.06.26 |    -     |
 |  5   |  등수 구하기   | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/2-5.js) | 22.06.26 |    -     |
-|  6   | 격자판 최대합  |                                            [JS]()                                            |          |    -     |
+|  6   | 격자판 최대합  | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/2-6.js) | 22.06.26 |    -     |
 |  7   |     봉우리     |                                            [JS]()                                            |    -     |    -     |
 
 <br />
@@ -147,7 +147,7 @@
 
 | 번호 |         문제         | JS 풀이 코드 | 1차 풀이 | 2차 풀이 |
 | :--: | :------------------: | :----------: | :------: | :------: |
-|  1   |       재귀함수       |   [[JS]()    |    -     |    -     |
+|  1   |       재귀함수       |    [JS]()    |    -     |    -     |
 |  2   |     이진수 출력      |    [JS]()    |    -     |    -     |
 |  3   |    이진 트리 순회    |    [JS]()    |    -     |    -     |
 |  4   |   부분집합 구하기    |    [JS]()    |    -     |    -     |
