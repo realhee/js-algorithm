@@ -57,7 +57,7 @@
 |  4   |   점수 계산    | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/2-4.js) | 22.06.27 |    -     |
 |  5   |  등수 구하기   | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/2-5.js) | 22.06.27 |    -     |
 |  6   | 격자판 최대합  | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/2-6.js) | 22.06.27 |    -     |
-|  7   |     봉우리     |                                            [JS]()                                            |    -     |    -     |
+|  7   |     봉우리     | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/2-7.js) | 22.06.27 |    -     |
 
 <br />
 
