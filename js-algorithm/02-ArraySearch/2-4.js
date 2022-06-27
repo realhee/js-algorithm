@@ -1,23 +1,15 @@
 // 2-4 점수계산
 function solution(arr) {
-  let score = 0;
+  let count = 0;
   let answer = 0;
-  // 복잡한 forEach보다 심플하게 for-of 구문을 떠올려보자
-  // arr.forEach((n, i) => {
-  //   if (n === 1) {
-  //     if (i == 0) score++;
-  //     else if (arr[i - 1] && arr[i - 1] == 1) score++;
-  //   } else {
-  //     score = 0;
-  //     return;
-  //   }
-  //   answer += score;
-  // });
-  for (let x of arr) {
-    if (x == 1) {
-      score++;
-      answer += score;
-    } else score = 0;
+  // 단순 배열의 value 값을 접근한다면 심플한 for-of 구문을 떠올려보자
+  for(let i=0; i < arr.length; i++) {
+    if(arr[i] == 1) {
+      count++;
+      answer += count;
+    } else {
+      count = 0;  
+    }
   }
   return answer;
 }
