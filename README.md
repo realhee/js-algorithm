@@ -55,7 +55,7 @@
 |  2   |  보이는 학생   | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/2-2.js) | 22.06.25 |    -     |
 |  3   |   가위바위보   | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/2-3.js) | 22.06.25 |    -     |
 |  4   |   점수 계산    | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/2-4.js) | 22.06.27 |    -     |
-|  5   |  등수 구하기   |                                            [JS]()                                            |    -     |    -     |
+|  5   |  등수 구하기   | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/2-5.js) | 22.06.27 |    -     |
 |  6   | 격자판 최대합  |                                            [JS]()                                            |    -     |    -     |
 |  7   |     봉우리     |                                            [JS]()                                            |    -     |    -     |
 
