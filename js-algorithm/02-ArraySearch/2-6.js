@@ -1,27 +1,24 @@
-// 2-6 격자판 최대합
-// 다시 풀어보기
+// 이중 for문
 function solution(arr) {
-  let sum = [];
-  let diagonal = 0;
+  // 최대값을 구할 땐 최소값으로 초기화
   let answer = Number.MIN_SAFE_INTEGER;
+  // 행의 합은 sum1
+  // 열의 합은 sum2
+  // 각 대각선의 합은 sum3, sum4
+  let sum1 = (sum2 = sum3 = sum4 = 0);
   for (let i = 0; i < arr.length; i++) {
-    let row = 0;
-
-    let line = arr[i].reduce((acc, cur) => {
-      return acc + cur;
-    });
-    sum.push(line);
-
+    // for문이 끝날 때마다 초기화
+    sum1 = sum2 = 0;
     for (let j = 0; j < arr.length; j++) {
-      row += arr[j][i];
+      sum1 += arr[i][j];
+      sum2 += arr[j][i];
     }
-    sum.push(row);
-
-    diagonal += arr[i][i];
-    sum.push(diagonal);
+    sum3 += arr[i][i];
+    // [length - i - 1] : [i] 와 대칭되는 index
+    sum4 += arr[arr.length - i - 1][i];
   }
-  console.log(sum);
-  answer = Math.max(...sum);
+  answer = Math.max(sum1, sum2, sum3, sum4);
+
   return answer;
 }
 
@@ -33,25 +30,3 @@ let arr = [
   [19, 13, 30, 13, 19],
 ];
 console.log(solution(arr)); // result : 155
-
-function solution2(arr) {
-  let sum1 = (sum2 = 0);
-  let answer = Number.MIN_SAFE_INTEGER;
-  for (let i = 0; i < arr.length; i++) {
-    sum1 = sum2 = 0;
-    for (let j = 0; j < arr.length; j++) {
-      sum1 += arr[i][j];
-      sum2 += arr[j][i];
-    }
-    answer = Math.max(answer, sum1, sum2);
-    sum1 = sum2 = 0;
-    for (let i = 0; i < arr.length; i++) {
-      sum1 += arr[i][i];
-      sum2 += arr[i][arr.length - i - 1]; // arr[length-i-1] 기억하기
-    }
-    answer = Math.max(answer, sum1, sum2);
-  }
-  return answer;
-}
-
-console.log(solution2(arr)); // result : 155

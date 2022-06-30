@@ -54,10 +54,10 @@
 |  1   | 큰 수 출력하기 | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/2-1.js) | 22.06.25 |    -     |
 |  2   |  보이는 학생   | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/2-2.js) | 22.06.25 |    -     |
 |  3   |   가위바위보   | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/2-3.js) | 22.06.25 |    -     |
-|  4   |   점수 계산    | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/2-4.js) | 22.06.26 |    -     |
-|  5   |  등수 구하기   | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/2-5.js) | 22.06.26 |    -     |
-|  6   | 격자판 최대합  | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/2-6.js) | 22.06.26 |    -     |
-|  7   |     봉우리     |                                            [JS]()                                            |    -     |    -     |
+|  4   |   점수 계산    | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/2-4.js) | 22.06.27 |    -     |
+|  5   |  등수 구하기   | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/2-5.js) | 22.06.27 |    -     |
+|  6   | 격자판 최대합  | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/2-6.js) | 22.06.27 |    -     |
+|  7   |     봉우리     | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/2-7.js) | 22.06.27 |    -     |
 
 <br />
 
@@ -65,13 +65,13 @@
 
 ## 문자열 탐색
 
-| 번호 |        문제        | JS 풀이 코드 | 1차 풀이 | 2차 풀이 |
-| :--: | :----------------: | :----------: | :------: | :------: |
-|  1   |     회문문자열     |    [JS]()    |    -     |    -     |
-|  2   |  유효한 팰린드롬   |    [JS]()    |    -     |    -     |
-|  3   |    숫자만 추출     |    [JS]()    |    -     |    -     |
-|  4   | 가장 짧은 문자거리 |    [JS]()    |    -     |    -     |
-|  5   |    문자열 압축     |    [JS]()    |    -     |    -     |
+| 번호 |        문제        |                                         JS 풀이 코드                                         | 1차 풀이 | 2차 풀이 |
+| :--: | :----------------: | :------------------------------------------------------------------------------------------: | :------: | :------: |
+|  1   |     회문문자열     | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/3-1.js) | 22.06.29 |    -     |
+|  2   |  유효한 팰린드롬   |                                            [JS]()                                            |    -     |    -     |
+|  3   |    숫자만 추출     |                                            [JS]()                                            |    -     |    -     |
+|  4   | 가장 짧은 문자거리 |                                            [JS]()                                            |    -     |    -     |
+|  5   |    문자열 압축     |                                            [JS]()                                            |    -     |    -     |
 
 <br />
 
