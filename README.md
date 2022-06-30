@@ -69,7 +69,7 @@
 | :--: | :----------------: | :------------------------------------------------------------------------------------------: | :------: | :------: |
 |  1   |     회문문자열     | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/3-1.js) | 22.06.29 |    -     |
 |  2   |  유효한 팰린드롬   | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/3-2.js) | 22.06.30 |    -     |
-|  3   |    숫자만 추출     |                                            [JS]()                                            |    -     |    -     |
+|  3   |    숫자만 추출     | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/3-3.js) | 22.06.30 |    -     |
 |  4   | 가장 짧은 문자거리 |                                            [JS]()                                            |    -     |    -     |
 |  5   |    문자열 압축     |                                            [JS]()                                            |    -     |    -     |
 
