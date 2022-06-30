@@ -71,7 +71,7 @@
 |  2   |  유효한 팰린드롬   |    [JS]()    |    -     |    -     |
 |  3   |    숫자만 추출     |    [JS]()    |    -     |    -     |
 |  4   | 가장 짧은 문자거리 | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/3-4.js) | 22.06.30 |    -     |
-|  5   |    문자열 압축     |    [JS]()    |    -     |    -     |
+|  5   |    문자열 압축     | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/02-ArraySearch/3-5.js) | 22.06.30 |    -     |
 
 <br />
 
