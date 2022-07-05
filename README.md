@@ -83,7 +83,7 @@
 | :--: | :---------: | :-----------------------------------------------------------------------------------------: | :------: | :------: |
 |  1   | 자리수의 합 | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/04-BruteForce/4-1.js) | 22.07.04 |    -     |
 |  2   | 뒤집은 소수 | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/04-BruteForce/4-2.js) | 22.07.04 |    -     |
-|  3   |   멘토링    |                                           [JS]()                                            |    -     |    -     |
+|  3   |   멘토링    | [JS](https://github.com/realhee/js-algorithm/blob/master/js-algorithm/04-BruteForce/4-3.js) | 22.07.05 |    -     |
 |  4   |  졸업선물   |                                           [JS]()                                            |    -     |    -     |
 |  5   | K번째 큰 수 |                                           [JS]()                                            |    -     |    -     |
 
